@@ -3,8 +3,8 @@
 I build primarily in Pyhon. 
 
 ### I am actively working on two projects: 
-- analysis: a suite of scripts consisting of various analyses of financial market data 
-- saveHistoricalData: a utility that maintains a local database of timeseries data for securities
+- analysis: collection of scripts to analyze various financial market data 
+- saveHistoricalData: maintains a local database of timeseries data for securities
 
 ### About Me
 I first started coding QBASIC in high school, followed by c++. My first 'app' was a space invaders clone (the aliens were headcrabs from Half Life) built in c++. I have an engineering degree from the University of Waterloo specialized in operations research, org design, and business. My current work is focused on financial markets. 
