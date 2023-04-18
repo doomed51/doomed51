@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I build primarily in Pyhon. 
+I build primarily in Python. 
 
 ### I am actively working on two projects: 
 - analysis: collection of scripts to analyze various financial market data 
 - saveHistoricalData: maintains a local database of timeseries data for securities
 
 ### About Me
-I first started coding QBASIC in high school, followed by c++. My first 'app' was a space invaders clone (the aliens were headcrabs from Half Life) built in c++. I have an engineering degree from the University of Waterloo specialized in operations research, org design, and business. My current work is focused on financial markets. 
+I first started coding QBASIC in high school, followed by c++. My first 'app' was a space invaders clone (the aliens were headcrabs from Half Life) built in VB6. I have an engineering degree from the University of Waterloo specialized in operations research, org design, and business. My current work is focused on financial markets. 
 
 I write a [newletter](https://crossedwires.substack.com/). And I am fairly active on [Twitter](https://twitter.com/inSenCite) if you want to get in touch. 
 
