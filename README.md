@@ -3,7 +3,7 @@
 I build primarily in Python. 
 
 ### I am actively working on two projects: 
-- analysis: collection of scripts to analyze various financial market data 
+- analysis: collection of scripts to analyze various financial market data (e.g. vix term structure, seasonality patterns, etc.)
 - saveHistoricalData: maintains a local database of timeseries data for securities
 
 ### About Me
