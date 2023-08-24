@@ -7,7 +7,7 @@ I build primarily in Python.
 - [saveHistoricalData](https://github.com/doomed51/saveHistoricalData): maintains a local database of timeseries data for securities
 
 ### About Me
-I first started coding QBASIC in high school, followed by c++. My first 'app' was a space invaders clone (the aliens were headcrabs from Half Life) built in VB6. I have an engineering degree that taught me stats, work experience that taught me people & decision making, and an itch to build things.
+My first programming language was QBASIC, followed by c++. My first 'app' was a space invaders clone (the aliens were headcrabs from Half Life) built in VB6. I have an engineering degree that taught me stats, work experience that taught me people & decision making, and an itch to build things.
 
 I write a [newletter](https://crossedwires.substack.com/). And I am fairly active on [Twitter](https://twitter.com/inSenCite) if you want to get in touch. 
 
