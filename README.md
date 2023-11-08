@@ -9,7 +9,7 @@ I build primarily in Python.
 ### About Me
 I enjoy building things. I enjoy visualizing data and finding statistical backing to my thinking. 
 
-I write a [newletter](https://crossedwires.substack.com/). And I am fairly active on [Twitter](https://twitter.com/inSenCite) and somewhat begrudgingly have a Linkedin account to connect. 
+I write a [newletter](https://crossedwires.substack.com/). And I am fairly active on [Twitter](https://twitter.com/inSenCite) and also on Linkedin. 
 
 <!--
 **doomed51/doomed51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
