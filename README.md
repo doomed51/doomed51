@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I build primarily in Python. 
+I build trading tools primarily in Python. 
 
 ### Active projects: 
 - [analysis](https://github.com/doomed51/analysis): collection of scripts for a number of analyses: momentum, volatility mean reversion, seasonality, vix term structure monitoring
-- [saveHistoricalData](https://github.com/doomed51/saveHistoricalData): maintains a local database of timeseries data for equities, indicies, and futures.
+- [saveHistoricalData](https://github.com/doomed51/saveHistoricalData): Data pipeline for ingestion, cleaning and, storage of timeseries data for equities and futures. 
 
 ### About Me
 I enjoy building things. I enjoy visualizing data and finding statistical backing to my thinking. 
