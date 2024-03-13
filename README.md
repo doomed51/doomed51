@@ -3,7 +3,7 @@
 I build trading tools primarily in Python. 
 
 ### Active projects: 
-- [analysis](https://github.com/doomed51/analysis): collection of scripts for a number of analyses: momentum, volatility mean reversion, seasonality, vix term structure monitoring
+- [analysis](https://github.com/doomed51/analysis): collection of scripts for a number of analyses & monitoring: momentum, volatility mean reversion, seasonality, futures termstructure
 - [saveHistoricalData](https://github.com/doomed51/saveHistoricalData): Data pipeline for ingestion, cleaning and, storage of timeseries data for equities and futures. 
 
 ### About Me
