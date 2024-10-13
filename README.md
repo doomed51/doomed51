@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I build trading tools primarily in Python. 
+I build statistical tools for exploring effects in financial securities. 
 
 ### Active projects: 
 - [analysis](https://github.com/doomed51/analysis): collection of scripts for a number of analyses & monitoring: momentum, volatility mean reversion, seasonality, futures termstructure
