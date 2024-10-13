@@ -7,9 +7,9 @@ I build trading tools primarily in Python.
 - [saveHistoricalData](https://github.com/doomed51/saveHistoricalData): Data pipeline for ingestion, cleaning and, storage of timeseries data for equities and futures. 
 
 ### About Me
-I enjoy building systems, looking for loopholes, and a good challenge. 
+I enjoy applying stats to real life. 
 
-I write a [newletter](https://crossedwires.substack.com/). And I am fairly active on [Twitter](https://twitter.com/inSenCite) and also on Linkedin. 
+I write a [newletter](https://crossedwires.substack.com/). And I am fairly active on [Twitter](https://twitter.com/inSenCite). 
 
 <!--
 **doomed51/doomed51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
