@@ -3,8 +3,8 @@
 I build statistical tools to make better financial decisions. 
 
 ### Active projects: 
-- [analysis](https://github.com/doomed51/analysis): collection of scripts for a number of analyses & monitoring: momentum, volatility mean reversion, seasonality, futures termstructure
-- [saveHistoricalData](https://github.com/doomed51/saveHistoricalData): Data pipeline for ingestion, cleaning and, storage of timeseries data for equities and futures. 
+- [analysis](https://github.com/doomed51/analysis): A comprehensive set of scripts for various financial analyses and market monitoring, including momentum strategies, volatility mean reversion, seasonality patterns, and futures term structure assessments.
+- [saveHistoricalData](https://github.com/doomed51/saveHistoricalData): A robust data pipeline designed for the ingestion, cleaning, and storage of time-series data for equities and futures markets.
 
 ### About Me
 I enjoy applying stats to real life. 
