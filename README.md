@@ -9,7 +9,9 @@ I build statistical tools to make better financial decisions.
 ### About Me
 I enjoy applying stats to financial markets. 
 
-[Personal Site](https://rachitshankar.com/). [Twitter](https://twitter.com/inSenCite). 
+🌱[Personal Site](https://rachitshankar.com/)
+
+💬[Twitter](https://twitter.com/inSenCite)
 
 <!--
 **doomed51/doomed51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
