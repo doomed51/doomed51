@@ -7,7 +7,7 @@ I build statistical tools to make better financial decisions.
 - [saveHistoricalData](https://github.com/doomed51/saveHistoricalData): Retrieve and store time-series data for equities and futures.
 
 ### About Me
-I enjoy applying stats to real life. 
+I enjoy applying stats to financial markets. 
 
 I write a [newletter](https://crossedwires.substack.com/). And I am fairly active on [Twitter](https://twitter.com/inSenCite). 
 
