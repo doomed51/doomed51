@@ -3,9 +3,9 @@
 I build tools for trading and other finance related things. 
 
 ### Active projects: 
-- [Analysis System for Stocks, ETFs, and Indices](https://github.com/doomed51/analysis): Time series analysis tools and utilities:  momentum, volatility mean reversion, seasonality , and futures term structure construction.
-- [Data Pipeline for Stocks, ETFs, Indices, and Futures](https://github.com/doomed51/saveHistoricalData): Maintain local db of timeseries data from 1min to 1day. Retrieves all available data in addition to keeping it up to date.
-- [Intra-Day Options Monitor](https://github.com/doomed51/optionsMonitor): System to run realtime analysis of intra-day options. Includes ability to aggregate stats across option chains (strikes/expiries).
+- [Analysis Hub](https://github.com/doomed51/analysis): Time series analysis tools and utilities e.g., log return seasonality, indicator library, custom dashboards
+- [Data Pipeline for Stocks, ETFs, Indices, and Futures](https://github.com/doomed51/saveHistoricalData): Maintain local db of timeseries data on intervals ranging from 1min to 1day. 
+- [Intra-Day Options Monitor](https://github.com/doomed51/optionsMonitor): Real-time dashboard for monitoring indicators aggregated across option chains. 
 - [Data Pipeline for Options](https://github.com/doomed51/optionsDataManager): Maintain local db of 1min options data
 - [Crypto Loader](https://github.com/doomed51/cryptoLoader): Compilation of DEX API's implemented in python, pandas, numpy to simplify memecoin "analysis"  
 
