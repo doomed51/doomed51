@@ -9,7 +9,7 @@ I build tools for trading and other finance related things.
 - [Data Pipeline for Options](https://github.com/doomed51/optionsDataManager): Maintain local db of 1min options data
 - [Crypto Loader](https://github.com/doomed51/cryptoLoader): Compilation of DEX API's implemented in python, pandas, numpy to simplify memecoin "analysis"  
 
-### Other Stuff Of Mine 
+### Other stuff Of mine 
 🌱[Personal Site](https://rachitshankar.com/)
 
 💬[Twitter](https://twitter.com/inSenCite)
