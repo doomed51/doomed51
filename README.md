@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I build statistical tools to make better financial decisions. 
+I build tools for trading and other finance related things. 
 
 ### Active projects: 
 - [Analysis System for Stocks, ETFs, and Indices](https://github.com/doomed51/analysis): Time series analysis tools and utilities:  momentum, volatility mean reversion, seasonality , and futures term structure construction.
@@ -9,9 +9,7 @@ I build statistical tools to make better financial decisions.
 - [Data Pipeline for Options](https://github.com/doomed51/optionsDataManager): Maintain local db of 1min options data
 - [Crypto Loader](https://github.com/doomed51/cryptoLoader): Compilation of DEX API's implemented in python, pandas, numpy to simplify memecoin "analysis"  
 
-### About Me
-I enjoy figuring out how things fit together.  
-
+### Other Stuff Of Mine 
 🌱[Personal Site](https://rachitshankar.com/)
 
 💬[Twitter](https://twitter.com/inSenCite)
