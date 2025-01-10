@@ -10,7 +10,7 @@ I build statistical tools to make better financial decisions.
 - [Crypto Loader](https://github.com/doomed51/cryptoLoader): Compilation of DEX API's implemented in python, pandas, numpy to simplify memecoin "analysis"  
 
 ### About Me
-I enjoy applying stats to financial markets. 
+I enjoy figuring out how things fit together.  
 
 🌱[Personal Site](https://rachitshankar.com/)
 
