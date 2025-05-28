@@ -7,7 +7,7 @@ I build tools for trading and other finance related things.
 - [Data Pipeline for Stocks, ETFs, Indices, and Futures](https://github.com/doomed51/saveHistoricalData): Maintain local db of timeseries data on intervals ranging from 1min to 1day. 
 - [Intra-Day Options Monitor](https://github.com/doomed51/optionsMonitor): Real-time dashboard for monitoring indicators aggregated across option chains. 
 - [Data Pipeline for Options](https://github.com/doomed51/optionsDataManager): Maintain local db of 1min options data
-- [Crypto Loader](https://github.com/doomed51/cryptoLoader): Compilation of DEX API's implemented in python, pandas, numpy to simplify memecoin "analysis"  
+- [Crypto Loader](https://github.com/doomed51/cryptoLoader): System for analyzing and trading across a multitude of DEX and CEX (Binance, Bybiy, Hyperliquid, Vertex, more being added). 
 
 ### Other stuff of mine 
 🌱[Personal Site](https://rachitshankar.com/)
