@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I build tools for trading and other finance related things. 
+I build tools to support my trading in tradfi and crypto. 
 
 ### Active projects: 
 - [Crypto Loader](https://github.com/doomed51/cryptoLoader): Crypto degen stuff - multi-exchange(Binance, Bybiy, Hyperliquid, etc). 
