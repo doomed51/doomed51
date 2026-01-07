@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I build tools to support my trading in tradfi and crypto. 
+I build stuff for trading 
 
 ### Active projects: 
 - [Crypto Loader](https://github.com/doomed51/cryptoLoader): dex data aggregator and analysis 
