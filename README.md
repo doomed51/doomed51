@@ -3,10 +3,9 @@
 I build tools to support my trading in tradfi and crypto. 
 
 ### Active projects: 
-- [Crypto Loader](https://github.com/doomed51/cryptoLoader): Crypto degen stuff - multi-exchange(Binance, Bybiy, Hyperliquid, etc). 
-- [Data Pipeline for Stocks, ETFs, Indices, and Futures](https://github.com/doomed51/saveHistoricalData): Maintain local db of timeseries data on intervals ranging from 1min to 1day. 
-- [Analysis Hub](https://github.com/doomed51/analysis): Time series analysis tools and utilities e.g., log return seasonality, indicator library, custom dashboards
-- [Intra-Day Options Monitor](https://github.com/doomed51/optionsMonitor): Real-time dashboard for monitoring indicators aggregated across option chains. 
+- [Crypto Loader](https://github.com/doomed51/cryptoLoader): dex data aggregator and analysis 
+- [Data Pipeline for Stocks, ETFs, Indices, and Futures](https://github.com/doomed51/saveHistoricalData): tradfi data aggregator 
+- [Analysis Hub](https://github.com/doomed51/analysis): tradfi analysis scripts and utilities 
 - [Data Pipeline for Options](https://github.com/doomed51/optionsDataManager): Maintain local db of 1min options data
 
 ### Other stuff of mine 
