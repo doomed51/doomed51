@@ -3,10 +3,10 @@
 I build stuff for trading 
 
 ### Active projects: 
-- [Crypto Loader](https://github.com/doomed51/cryptoLoader): dex data aggregator and analysis 
-- [Data Pipeline for Stocks, ETFs, Indices, and Futures](https://github.com/doomed51/saveHistoricalData): tradfi data aggregator 
-- [Analysis Hub](https://github.com/doomed51/analysis): tradfi analysis scripts and utilities 
-- [Data Pipeline for Options](https://github.com/doomed51/optionsDataManager): Maintain local db of 1min options data
+- [DEX Data Aggregator](https://github.com/doomed51/cryptoLoader)
+- [Data Pipeline for Stocks, ETFs, Indices, and Futures](https://github.com/doomed51/saveHistoricalData)
+- [Tradfi Analysis Scripts & Utils](https://github.com/doomed51/analysis)
+- [Data Pipeline for Options](https://github.com/doomed51/optionsDataManager)
 
 ### Other stuff of mine 
 🌱[Personal Site](https://rachitshankar.com/)
